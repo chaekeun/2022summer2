@@ -1,2 +1,2 @@
 def bye(name):
-    print("Bye {}!".format(name))
+    print("Farewell {}!".format(name))
